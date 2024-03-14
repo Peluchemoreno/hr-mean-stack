@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Peluchemoreno/hr-mean-stack/issues"
   },
-  "homepage": "https://github.com/Peluchemoreno/hr-mean-stack#readme"
+  "homepage": "https://github.com/Peluchemoreno/hr-mean-stack#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
